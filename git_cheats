@@ -1,0 +1,3 @@
+git remote add origin git@github.com:MaryFagerburg/git_first_repository.git
+
+#this is how to make anywhere recognized as an origin source for git_first_repository
